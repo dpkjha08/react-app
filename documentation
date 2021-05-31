@@ -1,0 +1,17 @@
+install react
+    npx create-react-app <app-name>
+
+to get value from input box to js variable use React Hook
+    useState
+
+for local storage - {set,get} use React Hook
+    useEffect
+
+to create unique id use uuidv4
+    uuid
+
+for routing
+    npm install react-router-dom --save
+
+for api work
+    npm install axios --save
